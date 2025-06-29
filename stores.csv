@@ -1,0 +1,11 @@
+StoreID,StoreName,Location,Manager
+1,Store_1,CityA,Manager_1
+2,Store_2,CityA,Manager_2
+3,Store_3,CityB,Manager_3
+4,Store_4,CityC,Manager_4
+5,Store_5,CityC,Manager_5
+6,Store_6,CityB,Manager_6
+7,Store_7,CityB,Manager_7
+8,Store_8,CityC,Manager_8
+9,Store_9,CityC,Manager_9
+10,Store_10,CityD,Manager_10
